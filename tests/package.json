@@ -26,7 +26,7 @@
     "prop-types": "^15.6.1",
     "react": "16.8.3",
     "react-dom": "16.8.3",
-    "react-native": "0.59.0",
+    "react-native": "0.62.3",
     "react-native-camera": "^1.10.1",
     "require-all": "3.0.0",
     "should": "^13.2.3",
